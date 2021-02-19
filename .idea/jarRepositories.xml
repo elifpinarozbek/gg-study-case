@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="main-repo1" />
+      <option name="name" value="main-repo1" />
+      <option name="url" value="http://repo1.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dg-maven-group-local" />
+      <option name="name" value="dg-maven-group-local" />
+      <option name="url" value="http://dg.artifact.huawei.com/artifactory/maven-local-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus" />
+      <option name="name" value="nexus" />
+      <option name="url" value="http://w3cloudnkg-sit1.huawei.com/ccloud/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dg-maven-group" />
+      <option name="name" value="dg-maven-group" />
+      <option name="url" value="http://dg.artifact.huawei.com/artifactory/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://dg.artifact.huawei.com/artifactory/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="huawei-main" />
+      <option name="name" value="huawei-main" />
+      <option name="url" value="http://dg.artifact.huawei.com/artifactory/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dg-maven-group-remote" />
+      <option name="name" value="dg-maven-group-remote" />
+      <option name="url" value="http://dg.artifact.huawei.com/artifactory/maven-remote-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="main-repo" />
+      <option name="name" value="main-repo" />
+      <option name="url" value="http://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+  </component>
+</project>
